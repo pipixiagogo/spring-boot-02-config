@@ -1,0 +1,30 @@
+#server:
+#  port: 8081
+#person:
+#  lastName: 瓜皮
+#  age: 18
+#  boss: false
+#  birth: 2017/12/12
+#  maps:
+#   k1: v1
+#   k2: v2
+#  lists:
+#   - lisi
+#   - wangwu
+#   - ww
+#  dog:
+#    name: dog
+#    age: 6
+#spring:
+#  profiles:
+#    active: prod
+#---
+#server:
+#  port: 8083
+#spring:
+#  profiles: dev
+#---
+#server:
+#  port: 8084
+#spring:
+#  profiles: prod
